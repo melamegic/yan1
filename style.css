@@ -1,0 +1,74 @@
+body {
+    color:#40514e;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0
+}
+
+h1 {
+  color: #588da8;
+  line-height: 2;
+  width: 30%;
+  margin: 0 auto;
+  font-size: 80px;
+  font-family: sacramento, sans-serif;
+}
+
+h2 {
+  color: #588da8;
+  font-weight: normal;
+  padding-bottom: 10px;
+  font-size: 40px;
+}
+
+h3 {
+  color: #588da8;
+  font-size: 40px;
+}
+
+.top {
+  padding-top: 100px;
+  background-color: rgb(215, 255, 252);
+  background: linear-gradient(90deg, rgba(215, 255, 252, 1) 13%, rgba(193, 255, 251, 0.7011846975118172) 57%, rgba(0, 255, 239, 0.5975432409291841) 100%);
+}
+
+.middle {
+  margin: 100px 0;
+}
+
+.bottom {
+  margin: 100px 0;
+}
+
+.bottom-cl {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cl {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.pic1{
+  width: 25%;
+  float: left;
+margin-right: 30px;
+}
+.pic2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.my-pro{
+  margin: 30px 0;
+}
